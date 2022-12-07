@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "Oge Samuel",
+      "email": "hello@ogesam.com",
+      "phone": "163877985453",
+      "address": "Ikoyi, Lagos",
+      "status": "Inactive",
+      "id": 2
+    },
+    {
+      "name": "Tobi Bakare-Musa",
+      "email": "tobi.bakare@gmail.com",
+      "phone": "667878799933",
+      "address": "Toronto, Canada",
+      "status": "Inactive",
+      "id": 3
+    },
+    {
+      "name": "Gregory Obi",
+      "email": "obi4president@example.ng",
+      "phone": "2789177373887",
+      "address": "Aso Villa, Nigeria",
+      "status": "Active",
+      "id": 4
+    },
+    {
+      "name": "Bruce Wayne",
+      "email": "b.wayne@dc.com",
+      "phone": "223444888188",
+      "address": "Gotham, NY",
+      "status": "Inactive",
+      "id": 5
+    },
+    {
+      "name": "Clark Kent",
+      "email": "c.kent@dc.com",
+      "phone": "784379999322",
+      "address": "Smallville, USA",
+      "status": "Inactive",
+      "id": 6
+    },
+    {
+      "name": "Diana Prince",
+      "email": "d.prince@dc.com",
+      "phone": "739837277722",
+      "address": "Themyscira, Amazon",
+      "status": "Active",
+      "id": 7
+    }
+  ]
+}

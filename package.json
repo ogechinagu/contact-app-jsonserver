@@ -1,0 +1,28 @@
+{
+  "name": "contact-app-jsonserver",
+  "version": "1.0.0",
+  "description": "RESTful json-server for the contact app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogechinagu/contact-app-jsonserver.git"
+  },
+  "keywords": [
+    "json-server",
+    "react",
+    "#100daysofcode"
+  ],
+  "author": "Ogechi Ikwunagu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ogechinagu/contact-app-jsonserver/issues"
+  },
+  "homepage": "https://github.com/ogechinagu/contact-app-jsonserver#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
